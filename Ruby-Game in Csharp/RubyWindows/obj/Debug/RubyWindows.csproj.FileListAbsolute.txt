@@ -1,0 +1,9 @@
+C:\Users\BuuZaid_Pc\Documents\Visual Studio 2013\Projects\RubyWindows\RubyWindows\bin\Debug\RubyWindows.exe.config
+C:\Users\BuuZaid_Pc\Documents\Visual Studio 2013\Projects\RubyWindows\RubyWindows\bin\Debug\RubyWindows.exe
+C:\Users\BuuZaid_Pc\Documents\Visual Studio 2013\Projects\RubyWindows\RubyWindows\bin\Debug\RubyWindows.pdb
+C:\Users\BuuZaid_Pc\Documents\Visual Studio 2013\Projects\RubyWindows\RubyWindows\obj\Debug\RubyWindows.csprojResolveAssemblyReference.cache
+C:\Users\BuuZaid_Pc\Documents\Visual Studio 2013\Projects\RubyWindows\RubyWindows\obj\Debug\RubyWindows.Form1.resources
+C:\Users\BuuZaid_Pc\Documents\Visual Studio 2013\Projects\RubyWindows\RubyWindows\obj\Debug\RubyWindows.Properties.Resources.resources
+C:\Users\BuuZaid_Pc\Documents\Visual Studio 2013\Projects\RubyWindows\RubyWindows\obj\Debug\RubyWindows.csproj.GenerateResource.Cache
+C:\Users\BuuZaid_Pc\Documents\Visual Studio 2013\Projects\RubyWindows\RubyWindows\obj\Debug\RubyWindows.exe
+C:\Users\BuuZaid_Pc\Documents\Visual Studio 2013\Projects\RubyWindows\RubyWindows\obj\Debug\RubyWindows.pdb
