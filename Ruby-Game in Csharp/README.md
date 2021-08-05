@@ -10,5 +10,5 @@ restrications you need, ant it’s tell you the shortest path netween the start 
 any one
   -  can try it by Downloading "RubyWindows.exe"
   -  see the code by downlaoding the total project or the "RubyWindows.zip"
-  -  # and also to be clear for you you can check the image to view a screenshot from the GUI
+  -  ## and also to be clear for you you can check the image to view a screenshot from the GUI
 
