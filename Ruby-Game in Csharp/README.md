@@ -3,6 +3,8 @@
 is a game that allow you add on 2D grid a start and an end point and put all
 restrications you need, ant it’s tell you the shortest path netween the start and end if found and count the number of steps
 
+![alt text](https://github.com/aabouzaid96/Projects/blob/master/Ruby-Game%20in%20Csharp/RubyGame-Photo.png?raw=true)
+
 # Developed Using:
 - it made using c# forms with simple GUI
 - i used Breadth Frist Search "BFS" Algorithm to find the shortest path between 2 nodes.
